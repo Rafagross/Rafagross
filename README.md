@@ -1,18 +1,21 @@
-# Hi, I'm Rafa Gross 👋
+Hi, I'm Rafael Gross 👋
+Welcome to my GitHub profile! I’m a certified Cloud Engineer with a deep specialization in Google Cloud Platform (GCP) services, including Compute Engine, Google Kubernetes Engine (GKE), and AppSheet. My focus is on leveraging cloud technology to create scalable, secure, and efficient solutions.
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity enthusiast, constantly exploring and learning new technologies to enhance digital security. Here's a little bit about me:
+🌟 About Me
+With a solid foundation in both cloud and on-premise infrastructures, I bring a results-oriented approach to cloud engineering. I have a proven track record in:
 
-- 🔭 I'm interested in various aspects of cybersecurity, including network security, ethical hacking, and secure software development.
-- 🌱 I'm currently learning advanced threat intelligence techniques and cloud security to broaden my knowledge and skills in the field.
-- 🤝 I'm open to collaborating on cybersecurity projects, research initiatives, or any other interesting ventures in the cybersecurity domain.
-- 📫 You can reach me through the following channels:
-  - Email: rafagross15@gmail.com
-  - LinkedIn: [Elvis Rafael Gross Cardero](https://www.linkedin.com/in/elvis-rafael-gross-cardero-7708281a1)
+Implementing and maintaining robust cloud environments.
+Migrating monolithic architectures to microservices on GKE to enhance scalability and efficiency.
+Utilizing frameworks like Scrum and Agile to drive productivity and project success.
+My diverse technical skill set enables me to deliver high-performance solutions, even under pressure. I’m proficient in Python, JavaScript, Bash, AWK, and SQL, and have hands-on experience with:
 
-## 🔍 About This Repository
-
-This repository serves as my central hub for showcasing my cybersecurity projects, expertise, and contributions to the community. You'll find a collection of projects and demonstrations highlighting my skills and experience in areas such as Python programming, Linux administration, network security, and web application security.
-
-Feel free to explore the projects and code samples available here. I'm continuously updating this repository with new projects and advancements as I delve deeper into the exciting world of cybersecurity.
-
-Thank you for visiting my profile. Let's connect and collaborate to create a safer digital world!
+Operating Systems: Windows, Debian, RHEL, Ubuntu, Fedora, CentOS, IBM Power Systems.
+Tools & Technologies: Docker, Kubernetes, Terraform, NGINX, Prometheus, Grafana, BigQuery, GitHub, and Splunk.
+Frameworks: NIST CSF & RMF, Minikube, Podman, Google Workspace.
+📂 Projects & Contributions
+Scalable Deployment: Developed and deployed a website using Cloud Run, ensuring efficient scaling for containerized applications.
+Compute Engine Web Hosting: Managed and optimized virtual machines on GCP to support high-performance web services.
+Kubernetes Infrastructure: Implemented, scaled, and managed a website on GKE, building a resilient and scalable backend.
+Microservices Migration: Enhanced application deployment efficiency by transitioning a monolithic website to a microservices architecture on GKE.
+📫 Let's Connect!
+Feel free to explore my projects here, and let’s connect to share ideas or collaborate. Together, we can shape the future of cloud technology.
