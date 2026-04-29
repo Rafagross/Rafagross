@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Gross
+# Hi, I'm Rafael Gross 👋
 
 **Cloud Operations Engineer** | AWS · GCP · Kubernetes | Las Vegas, NV
 
@@ -11,7 +11,7 @@
 
 ## About Me
 
-Cloud Operations Engineer with production experience managing enterprise-scale AWS environments at **International Game Technology (IGT)** — supporting mission-critical gaming infrastructure serving millions of end users. Prior to that, 3+ years as a Pre-Sales Cloud Engineer at **CODESA**, a Google Cloud Partner consulting firm, architecting GCP solutions for enterprise clients across Latin America.
+Cloud Operations Engineer with 7+ years of experience across cloud infrastructure, observability, and systems engineering. Most recently at **International Game Technology (IGT)** managing enterprise-scale AWS environments supporting mission-critical gaming infrastructure serving millions of end users. Prior to that, 3+ years as a Pre-Sales Cloud Engineer at **CODESA**, a Google Cloud Partner consulting firm, architecting GCP solutions for enterprise clients across Latin America.
 
 I specialize in infrastructure reliability, automation, and observability — building systems that stay up, scale under pressure, and fail gracefully when they don't.
 
@@ -22,16 +22,26 @@ I specialize in infrastructure reliability, automation, and observability — bu
 
 ---
 
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Cloud Operations Engineer | International Game Technology (IGT) — Las Vegas, NV | Mar 2025 – Apr 2026 |
+| Pre-Sales Cloud Engineer | CODESA (IT & Cloud Consulting, Google Cloud Partner) — Lima, Peru | Apr 2021 – Nov 2024 |
+| Cloud Systems Engineer | Zeta Ltd | 2019 – 2021 |
+
+---
+
 ## Core Stack
 
 ```
-Cloud:        AWS (EC2, EKS, SSM, CloudWatch, IAM, S3, RDS, CloudFormation)
-              GCP (Cloud Run, BigQuery, Pub/Sub, Cloud Functions, CloudSQL)
-Containers:   Kubernetes (EKS, on-prem), Docker, Istio
-IaC:          Terraform, CloudFormation
+Cloud:         AWS (EC2, EKS, SSM, CloudWatch, IAM, S3, RDS, CloudFormation)
+               GCP (Cloud Run, BigQuery, Pub/Sub, Cloud Functions, CloudSQL)
+Containers:    Kubernetes (EKS, on-prem), Docker, Istio
+IaC:           Terraform, CloudFormation
 Observability: CloudWatch, Prometheus, Grafana, LogicMonitor
-Automation:   SSM Patch Manager, SSM Run Command, Automation Documents, Bash, Python
-OS:           Linux (RHEL, Rocky, Ubuntu), Windows Server
+Automation:    SSM Patch Manager, SSM Run Command, Automation Documents, Bash, Python
+OS:            Linux (RHEL, Rocky, Ubuntu), Windows Server
 ```
 
 ---
@@ -72,5 +82,5 @@ Sentiment analysis pipeline using Twitter API, Google AI Studio, and Gemini AI. 
 
 ---
 
-*Open to Cloud Operations, SRE, DevOps, and Platform Engineering roles.*  
+*Open to Cloud Operations, SRE, DevOps, and Platform Engineering roles.*
 📬 rafagross15@gmail.com
