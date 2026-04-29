@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Gross 👋
+# Hi, I'm Rafael Gross
 
 **Cloud Operations Engineer** | AWS · GCP · Kubernetes | Las Vegas, NV
 
