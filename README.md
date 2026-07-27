@@ -1,86 +1,87 @@
-# Hi, I'm Rafael Gross 👋
+# Elvis Rafael Gross Cardero
 
-**Cloud Operations Engineer** | AWS · GCP · Kubernetes | Las Vegas, NV
+**Cloud Operations Engineer** — AWS · GCP · Kubernetes · Terraform
+Las Vegas, NV · Open to remote and hybrid
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/erafael-gross)
-[![AWS CloudOps](https://img.shields.io/badge/AWS-SysOps%20CloudOps-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/)
-[![GCP PCA](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification)
-[![CKA](https://img.shields.io/badge/CKA-In%20Progress-326CE5?style=flat&logo=kubernetes)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+I keep cloud infrastructure running: the monitoring that catches a problem before
+a user does, the least-privilege access path that removes the bastion host, the
+runbook that lets someone else fix it at 3 a.m. Seven years across AWS and GCP,
+most recently at enterprise scale in regulated gaming.
 
----
-
-## About Me
-
-Cloud Operations Engineer with 7+ years of experience across cloud infrastructure, observability, and systems engineering. Most recently at **International Game Technology (IGT)** managing enterprise-scale AWS environments supporting mission-critical gaming infrastructure serving millions of end users. Prior to that, 3+ years as a Pre-Sales Cloud Engineer at **CODESA**, a Google Cloud Partner consulting firm, architecting GCP solutions for enterprise clients across Latin America.
-
-I specialize in infrastructure reliability, automation, and observability — building systems that stay up, scale under pressure, and fail gracefully when they don't.
-
-- 🔧 **Currently:** Building a self-hosted homelab with Proxmox, Kubernetes, Prometheus, and Grafana
-- 📚 **Studying:** CKA — Certified Kubernetes Administrator (CNCF)
-- 📍 **Based in:** Las Vegas, NV — open to remote and hybrid roles
-- 🎰 **Nevada Gaming License** holder
+**Currently looking for** Cloud Operations, SRE, DevOps, or Platform Engineering
+roles. If you're hiring, the fastest way to judge my work is the repositories
+below — they're the real thing, not tutorials.
 
 ---
 
-## Experience
+## Background
 
-| Role | Company | Period |
-|---|---|---|
-| Cloud Operations Engineer | International Game Technology (IGT) — Las Vegas, NV | Mar 2025 – Apr 2026 |
-| Pre-Sales Cloud Engineer | CODESA (IT & Cloud Consulting, Google Cloud Partner) — Lima, Peru | Apr 2021 – Nov 2024 |
-| Cloud Systems Engineer | Zeta Ltd | 2019 – 2021 |
+At **International Game Technology** I operated AWS infrastructure for gaming
+platforms serving millions of end users — EC2 and EKS fleets, CloudWatch
+observability, IAM boundaries, patching and backup under audit requirements.
+Regulated gaming means change control is real: nothing ships without a rollback
+path and a record of who approved it.
+
+Before that, three years as a **Pre-Sales Cloud Engineer at CODESA**, a Google
+Cloud partner, architecting solutions for enterprise clients across Latin
+America — which is where I learned to explain an architecture to people who are
+paying for it, not just building it.
+
+I hold a **Nevada gaming license** and I'm certified in AWS, Google Cloud, and
+security fundamentals. CKA is in progress.
 
 ---
 
-## Core Stack
+## Selected work
 
-```
-Cloud:         AWS (EC2, EKS, SSM, CloudWatch, IAM, S3, RDS, CloudFormation)
-               GCP (Cloud Run, BigQuery, Pub/Sub, Cloud Functions, CloudSQL)
-Containers:    Kubernetes (EKS, on-prem), Docker, Istio
-IaC:           Terraform, CloudFormation
-Observability: CloudWatch, Prometheus, Grafana, LogicMonitor
-Automation:    SSM Patch Manager, SSM Run Command, Automation Documents, Bash, Python
-OS:            Linux (RHEL, Rocky, Ubuntu), Windows Server
-```
+**[fraud-detection-aws-platform](https://github.com/Rafagross/fraud-detection-aws-platform)** · Terraform
+Private EC2 operations without a bastion host: SSM Session Manager for access,
+VPC endpoints so traffic never leaves the AWS network, CloudWatch for
+observability, AWS Backup for recovery. Built around the question of how to
+reach an instance that has no public IP and no inbound rule.
+
+**[eks-prometheus-grafana-runbook](https://github.com/Rafagross/eks-prometheus-grafana-runbook)**
+Production EKS with a Prometheus and Grafana observability stack — deployment
+steps, what to alert on, and what the dashboards are actually for.
+
+**[container-runtime-runbooks-homelabs](https://github.com/Rafagross/container-runtime-runbooks-homelabs)**
+Container runtime configuration on Linux, written the way I'd want to find it
+during an incident: exact commands, expected output, and what it means when the
+output differs.
+
+---
+
+## Stack
+
+**AWS** — EC2, EKS, S3, RDS, IAM, VPC, CloudWatch, Systems Manager, Backup, Lambda
+**GCP** — Compute Engine, GKE, Cloud Run, BigQuery, Cloud Monitoring
+**Kubernetes** — cluster operations, workload troubleshooting, RBAC
+**Infrastructure as code** — Terraform, Ansible
+**Observability** — Prometheus, Grafana, CloudWatch
+**Scripting** — Bash, Python
 
 ---
 
 ## Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| AWS Certified SysOps Administrator – CloudOps | Amazon Web Services | ✅ Active |
-| Google Cloud Professional Cloud Architect (PCA) | Google Cloud | ✅ Active |
-| Google Cloud Associate Cloud Engineer (ACE) | Google Cloud | ✅ Active |
-| CompTIA Cloud+ (CV0-004) | CompTIA | ✅ Active |
-| ISC2 Certified in Cybersecurity (CC) | ISC2 | ✅ Active |
-| Certified Kubernetes Administrator (CKA) | CNCF / Linux Foundation | 🔄 In Progress |
+AWS Certified SysOps Administrator · Google Cloud Professional Cloud Architect ·
+Google Cloud Associate Cloud Engineer · CompTIA Cloud+ · ISC2 Certified in
+Cybersecurity · CKA (in progress)
+
+Verify: [credly.com/users/rafa-gross](https://www.credly.com/users/rafa-gross)
 
 ---
 
-## Featured Projects
+## Homelab
 
-### 🔒 [AWS CloudOps Private EC2 Operations Platform](https://github.com/Rafagross/aws-cloudops-private-ec2-operations-platform)
-Secure AWS CloudOps platform for managing private EC2 instances without public exposure. Uses SSM Session Manager via VPC endpoints, CloudWatch monitoring, encrypted backups with AWS Backup, and hardened Golden AMIs. Designed with least-privilege IAM and AWS Well-Architected best practices.
-
-### ☸️ Kubernetes Homelab Cluster — CKA Preparation
-Multi-node Kubernetes cluster provisioned from scratch using Vagrant and VirtualBox. Covers CNI configuration, RBAC, scheduling, persistent storage, and pod lifecycle management. Running on physical hardware (Dell Precision T5820 + Dell OptiPlex) with SSH-based remote access.
-
-### 📊 Homelab Observability Stack
-Self-hosted monitoring environment on Proxmox with Prometheus and Grafana collecting system and container-level telemetry. Custom dashboards for CPU, memory, network I/O, and pod health across the Kubernetes cluster.
-
-### 🔬 [Twitter Sentiment Analysis — AI/ML](https://github.com/Rafagross/Alura_Imersao_IA_Challenge)
-Sentiment analysis pipeline using Twitter API, Google AI Studio, and Gemini AI. Built during Alura Immersion AI challenge.
+A three-node Kubernetes cluster on Proxmox with Prometheus and Grafana, where I
+break things on purpose. Most of what ends up in the runbooks above was learned
+here first.
 
 ---
 
-## GitHub Stats
+## Contact
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafagross&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafagross&layout=compact&theme=dark&hide_border=true)
-
----
-
-*Open to Cloud Operations, SRE, DevOps, and Platform Engineering roles.*
-📬 rafagross15@gmail.com
+[rafael-gross.com](https://rafael-gross.com) ·
+[LinkedIn](https://www.linkedin.com/in/erafael-gross) ·
+rafagross15@gmail.com
