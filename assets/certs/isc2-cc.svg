@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t"><title id="t">ISC2 Certified in Cybersecurity (CC)</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00A4A6"/><stop offset="1" stop-color="#075e63"/></linearGradient></defs>
+<circle cx="120" cy="112" r="100" fill="url(#g)"/>
+<circle cx="120" cy="112" r="88" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+<text x="120" y="98" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff">ISC2</text>
+<text x="120" y="128" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#ccfbf1">CERTIFIED IN</text>
+<text x="120" y="147" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#ccfbf1">CYBERSECURITY</text>
+<rect x="78" y="190" width="84" height="32" rx="16" fill="#0b1020" stroke="#2dd4bf" stroke-width="2"/>
+<text x="120" y="211" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="1.5" fill="#99f6e4">CC</text>
+</svg>
