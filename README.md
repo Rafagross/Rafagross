@@ -1,25 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Elvis Rafael Gross Cardero — Cloud Operations Engineer · AWS · GCP · Kubernetes · Terraform">
+</p>
 
-# Elvis Rafael Gross Cardero
+<p align="center">
+  <a href="https://www.linkedin.com/in/erafael-gross"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://rafael-gross.com"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://dev.to/rafagross"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
+  <a href="https://builder.aws.com/community/@rafagross"><img src="https://img.shields.io/badge/AWS%20Builder%20Center-FF9900?style=for-the-badge" alt="AWS Builder Center"></a>
+  <a href="https://www.credly.com/users/rafa-gross"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+  <a href="mailto:rafagross15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### Cloud Operations Engineer · AWS · GCP · Kubernetes · Terraform
-
-**Las Vegas, NV** · Open to remote and hybrid
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erafael-gross)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafael-gross.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rafa-gross)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafagross15@gmail.com)
-
-</div>
-
----
+## About me
 
 I keep cloud infrastructure running: the monitoring that catches a problem before a user does, the least-privilege access path that removes the bastion host, the runbook that lets someone else fix it at 3 a.m. Seven years across AWS and GCP, most recently at enterprise scale in regulated gaming.
 
-**Currently looking for** Cloud Operations, SRE, DevOps, or Platform Engineering roles. If you're hiring, the fastest way to judge my work is the repositories below. They're the real thing, not tutorials.
+**Currently looking for** Cloud Operations, SRE, DevOps, or Platform Engineering roles, and open to consulting and freelance work in the same areas. If you're hiring, the fastest way to judge my work is the repositories below. They're the real thing, not tutorials.
 
----
+- **Las Vegas, NV** · open to remote and hybrid
+- **Nevada gaming license** holder
+- **Studying for the CKA** (Certified Kubernetes Administrator)
+- **Writing** on [dev.to](https://dev.to/rafagross) and [AWS Builder Center](https://builder.aws.com/community/@rafagross)
 
 ## Background
 
@@ -27,105 +28,55 @@ At **International Game Technology** I operated AWS infrastructure for gaming pl
 
 Before that, three years as a **Pre-Sales Cloud Engineer at CODESA**, a Google Cloud partner, architecting solutions for enterprise clients across Latin America — which is where I learned to explain an architecture to the people paying for it, not just the people building it.
 
-I hold a **Nevada gaming license**, and I'm certified across AWS, Google Cloud, and security fundamentals.
-
----
-
 ## Certifications
 
-<div align="center">
+<p align="center">
+  <a href="https://www.credly.com/badges/0bf12c58-0a81-4c5e-820e-98bb1f3ed66a"><img src="assets/certs/aws-cloudops-engineer-associate.png" width="112" alt="AWS Certified CloudOps Engineer – Associate"></a>
+  <a href="https://www.credly.com/badges/dfb2fa09-ac6c-42c1-8770-72eb31215ed1"><img src="assets/certs/gcp-professional-cloud-architect.png" width="112" alt="Google Cloud Professional Cloud Architect"></a>
+  <a href="https://www.credly.com/badges/2f870b5d-baf8-46ea-aaf8-2d2ca9f65215"><img src="assets/certs/gcp-associate-cloud-engineer.png" width="112" alt="Google Cloud Associate Cloud Engineer"></a>
+  <a href="https://www.credly.com/badges/75e8ce56-a1c0-48dc-99e6-da357fe9df0e"><img src="assets/certs/comptia-cloud-plus.png" width="112" alt="CompTIA Cloud+"></a>
+  <img src="assets/certs/isc2-cc.svg" width="112" alt="ISC2 Certified in Cybersecurity (CC)">
+  <img src="assets/certs/cka-in-progress.svg" width="112" alt="Certified Kubernetes Administrator (CKA), in progress">
+</p>
 
-![AWS SysOps](https://img.shields.io/badge/AWS-SysOps%20Administrator-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP Architect](https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GCP ACE](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-E4002B?style=flat-square&logo=comptia&logoColor=white)
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A4A6?style=flat-square&logo=isc2&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA-In%20Progress-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**[Verify all credentials on Credly](https://www.credly.com/users/rafa-gross)**
-
-</div>
-
----
+<p align="center"><a href="https://www.credly.com/users/rafa-gross"><b>Verify on Credly →</b></a></p>
 
 ## Selected work
 
-### [fraud-detection-aws-platform](https://github.com/Rafagross/fraud-detection-aws-platform)
+<p align="center">
+  <a href="https://github.com/Rafagross/fraud-detection-aws-platform"><img src="assets/cards/fraud-detection-aws-platform.svg" width="49%" alt="fraud-detection-aws-platform: private EC2 operations without a bastion host"></a>
+  <a href="https://github.com/Rafagross/eks-prometheus-grafana-runbook"><img src="assets/cards/eks-prometheus-grafana-runbook.svg" width="49%" alt="eks-prometheus-grafana-runbook: production EKS with kube-prometheus-stack"></a>
+  <a href="https://github.com/Rafagross/container-runtime-runbooks-homelabs"><img src="assets/cards/container-runtime-runbooks-homelabs.svg" width="49%" alt="container-runtime-runbooks-homelabs: container runtime runbooks validated on real hardware"></a>
+  <a href="https://rafael-gross.com"><img src="assets/cards/homelab.svg" width="49%" alt="Kubernetes homelab: three-node cluster on Proxmox with Prometheus and Grafana"></a>
+</p>
 
-Private EC2 operations without a bastion host: SSM Session Manager for access, VPC endpoints so traffic never leaves the AWS network, CloudWatch for observability, AWS Backup for recovery. Built around one question — how do you reach an instance that has no public IP and no inbound rule?
+## Tech stack
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![SSM](https://img.shields.io/badge/Systems%20Manager-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+<p align="center">
+  <img src="assets/icons/aws.svg" width="48" alt="AWS" title="AWS">
+  <img src="assets/icons/gcp.svg" width="48" alt="Google Cloud" title="Google Cloud">
+  <img src="assets/icons/kubernetes.svg" width="48" alt="Kubernetes" title="Kubernetes">
+  <img src="assets/icons/helm.svg" width="48" alt="Helm" title="Helm">
+  <img src="assets/icons/docker.svg" width="48" alt="Docker" title="Docker">
+  <img src="assets/icons/proxmox.svg" width="48" alt="Proxmox" title="Proxmox">
+  <img src="assets/icons/terraform.svg" width="48" alt="Terraform" title="Terraform">
+  <img src="assets/icons/ansible.svg" width="48" alt="Ansible" title="Ansible">
+  <img src="assets/icons/github-actions.svg" width="48" alt="GitHub Actions" title="GitHub Actions">
+  <img src="assets/icons/prometheus.svg" width="48" alt="Prometheus" title="Prometheus">
+  <img src="assets/icons/grafana.svg" width="48" alt="Grafana" title="Grafana">
+  <img src="assets/icons/python.svg" width="48" alt="Python" title="Python">
+  <img src="assets/icons/bash.svg" width="48" alt="Bash" title="Bash">
+  <img src="assets/icons/linux.svg" width="48" alt="Linux" title="Linux">
+</p>
 
-### [eks-prometheus-grafana-runbook](https://github.com/Rafagross/eks-prometheus-grafana-runbook)
-
-Production EKS with a Prometheus and Grafana observability stack: deployment steps, what to alert on, and what the dashboards are actually for. An original operational document with a full deviation log — where the vendor docs were wrong, and what the working procedure is instead.
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### [container-runtime-runbooks-homelabs](https://github.com/Rafagross/container-runtime-runbooks-homelabs)
-
-Container runtime configuration on Linux, written the way I'd want to find it during an incident — exact commands, expected output, and what it means when the output differs. Every procedure executed and validated on physical hardware, not copied from upstream.
-
-![containerd](https://img.shields.io/badge/containerd-575757?style=flat-square&logo=containerd&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Stack
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-
-**Containers and orchestration**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-
-**Infrastructure as code and automation**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Homelab
-
-A three-node Kubernetes cluster on Proxmox with Prometheus and Grafana, where I break things on purpose. Most of what ends up in the runbooks above was learned here first.
-
----
+<p align="center"><sub>AWS: EC2 · EKS · S3 · RDS · Lambda · IAM · CloudWatch · Systems Manager · Backup</sub></p>
 
 <div align="center">
 
-**Open to Cloud Operations · SRE · DevOps · Platform Engineering**
+**Open to Cloud Operations · SRE · DevOps · Platform Engineering · Consulting**
 
 [rafael-gross.com](https://rafael-gross.com) · [LinkedIn](https://www.linkedin.com/in/erafael-gross) · [rafagross15@gmail.com](mailto:rafagross15@gmail.com)
+
+<img src="assets/footer.svg" width="100%" alt="">
 
 </div>
